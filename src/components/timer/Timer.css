@@ -1,0 +1,25 @@
+.timer__block{
+    background-color: rgb(39, 39, 39);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 150px;
+}
+
+.timer__text{
+    color: #fff;
+    font-size: 48px;
+    letter-spacing: 1px;
+    margin:0 2px;
+}
+
+.timer__label{
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.dot{
+    margin: 12px 0 0 0;
+}
